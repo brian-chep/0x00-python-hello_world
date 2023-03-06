@@ -1,2 +1,2 @@
 #!/bin/bash
-print("Best School")
+export PYFILE=main.py
